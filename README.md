@@ -80,3 +80,7 @@ Solenoid Lock:
 
 
 Provides secure locking and unlocking mechanisms for physical access control.
+
+Sample demo of the automation 
+![Uploading WhatsApp Image 2024-11-18 at 03.25.02_97da4a6c.jpg…]()
+
