@@ -1,3 +1,25 @@
+/*The provided code implements a Smart Home Security System using an ESP8266, Adafruit Fingerprint Sensor, and Blynk platform. The system allows dual-mode door access via fingerprint or keypad, logs access attempts to Google Sheets, and integrates an LCD for visual feedback. The features include:
+
+Fingerprint Authentication:
+
+Uses the Adafruit Fingerprint sensor to grant or deny access.
+Valid fingerprints unlock the door and log entries via Google Sheets.
+Keypad Backup:
+
+Communicates with an Arduino Mega to process keypad input as a backup access method.
+Displays keypad messages and logs successful entries.
+Wi-Fi Connectivity:
+
+Connects to a Wi-Fi network for internet access and logging entries to Google Sheets.
+Uses the Blynk platform for remote monitoring and control.
+LCD Display:
+
+Provides real-time feedback (e.g., "Connecting to Wi-Fi," "Fingerprint Valid," etc.).
+Door Lock Control:
+
+Controls a solenoid lock via a relay, unlocking the door temporarily on successful authentication.
+*/
+
 // Blynk credentials
 #define BLYNK_TEMPLATE_ID "TMPL3Z2fgiR0X"
 #define BLYNK_TEMPLATE_NAME "Home Security"
