@@ -1,4 +1,5 @@
-Integrated Smart Home Security and Energy Management System
+# Integrated Smart Home Security and Energy Management System
+
 This project integrates advanced security mechanisms and automated environmental management to enhance home safety and energy efficiency. The system is divided into two primary components:
 
 1. Security System
