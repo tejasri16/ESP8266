@@ -25,28 +25,7 @@ Switch and Relay:
 Controls connected electrical devices based on sensor inputs, enabling efficient automation.
 
 Equipment Used
-Arduino Mega:
-Functions as the central control hub for the system.
 
-ESP8266:
-Provides Wi-Fi connectivity for remote alerts and real-time monitoring.
-
-Raspberry Pi:
-Manages camera functionality for image capture and processing.
-
-FHD Webcam:
-Captures high-quality images for security notifications.
-
-Buzzer:
-Alerts users to unauthorized access attempts or potential risks.
-
-Switch and Relay:
-Facilitates automation and control of electrical appliances.
-
-Solenoid Lock:
-Provides robust physical security.
-
-Project Images and Descriptions
 Overall Circuit:
 ![WhatsApp Image 2024-11-18 at 02 59 23_9d414571](https://github.com/user-attachments/assets/8d890998-89ce-48f1-86f7-a35287b6522c)
 
